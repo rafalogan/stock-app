@@ -16,4 +16,3 @@ exemple of data model:
 	"price": 5.89
 }
 ```
-
