@@ -1,2 +1,4 @@
 # stock-app
-This application is based on chapter Angular of Model Web with JS of  Cod3r
+
+This application is based on chapter Angular of [Modern Web with JS of Cod3r](https://www.cod3r.com.br/courses/web-moderno).
+
