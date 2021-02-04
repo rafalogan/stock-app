@@ -14,6 +14,8 @@ import { FooterComponent } from './components/template/footer/footer.component';
 import { NavigationComponent } from './components/template/navigation/navigation.component';
 import { HomeComponent } from './views/home/home.component';
 import { ProductCrudComponent } from './views/product-crud/product-crud.component';
+import { RedDirective } from './directives/red.directive';
+import { ForDirective } from "./directives/for.directive";
 
 
 @NgModule({
@@ -23,7 +25,9 @@ import { ProductCrudComponent } from './views/product-crud/product-crud.componen
     FooterComponent,
     NavigationComponent,
     HomeComponent,
-    ProductCrudComponent
+    ProductCrudComponent,
+    RedDirective,
+    ForDirective
   ],
   imports: [
     BrowserModule,
