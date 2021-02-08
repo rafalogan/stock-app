@@ -28,6 +28,7 @@ export class ProductService {
   }
 
   create(product: Product): Observable<Product> {
+    product.price  = Number(product.price);
     return this.http.post<Product>(this.baseUrl, product);
   }
 
