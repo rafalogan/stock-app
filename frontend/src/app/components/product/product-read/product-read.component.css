@@ -2,3 +2,19 @@ table {
   width: 100%;
   border-radius: 8px;
 }
+
+i {
+  margin: 5px 2px;
+}
+
+i.edit, i.delete {
+  color: #484848;
+}
+
+i.edit:hover {
+  color: #d9cd26;
+}
+
+i.delete:hover {
+  color: crimson;
+}
