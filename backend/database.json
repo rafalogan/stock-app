@@ -16,14 +16,14 @@
       "price": 7520.89
     },
     {
-      "name": "Lapis Preto",
-      "price": 2.5,
-      "id": 4
-    },
-    {
       "name": "NoteBook",
       "price": 3999.99,
       "id": 5
+    },
+    {
+      "name": "Redmi Note 9S",
+      "price": 1500,
+      "id": 6
     }
   ]
 }
